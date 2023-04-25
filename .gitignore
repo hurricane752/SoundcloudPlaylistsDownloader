@@ -365,3 +365,6 @@ FodyWeavers.xsd
 # JetBrains Rider IDE
 .idea/
 .tye/
+
+# VS code
+.vscode
